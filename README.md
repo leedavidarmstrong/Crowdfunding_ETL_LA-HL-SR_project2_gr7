@@ -3,8 +3,9 @@
 # Project 2: ETL Mini Project
 ## Overview
     In this project, we worked on building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and various data processing techniques. The project involved handling data from crowdfunding and contacts datasets, extracting relevant information, transforming it as needed, and loading it into a PostgreSQL database.
-## Files
-    - ETL_Mini_Project_LA-HL-SR_Project_gr7.ipynb: Jupyter notebook containing the main code and process for the ETL pipeline. Option 1             completed by Hieu Lam and commented out, group submission is using option 2.
+## Starter_Files Folder
+    - ETL_Mini_Project_LA-HL-SR_Project_gr7.ipynb: Jupyter notebook containing the main code and process for the ETL pipeline. Option 1 has been completed by Hieu Lam and commented out, group submission is using option 2.
+        Folder also contains draft working copy of ETL_Mini_Project_LArmstrong.ipynb not for submission.
     - Resources_LA/: Folder containing;
         Original datasets in Excel format.
         Exported CSV files after transformation.
